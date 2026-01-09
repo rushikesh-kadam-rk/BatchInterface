@@ -1,3 +1,8 @@
+.sfdx/**
+force-app/main/default/lwc/jsconfig.json
+.forceignore
+.vscode/**
+.gitignore
 .sfdx/tools/258/apex.db
 .sfdx/tools/258/StandardApexLibrary/AiAccelerator/CustomFeatureExtractor.cls
 .sfdx/tools/258/StandardApexLibrary/AiAccelerator/SampleCustomFeatureExtractor.cls
@@ -5700,3 +5705,5 @@
 .sfdx/typings/lwc/sobjects/Report.d.ts
 .sfdx/typings/lwc/sobjects/Task.d.ts
 .sfdx/typings/lwc/sobjects/User.d.ts
+.sf/config.json
+.gitignore
